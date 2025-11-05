@@ -1,81 +1,76 @@
-<!-- Profile README - Le Pham Binh -->
-<h1 align="center">Hi there! 👋 I'm Le Pham Binh</h1>
+<!-- Modern + Techy GitHub Profile - Le Pham Binh -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Le Pham Binh</span></h1>
 
 <p align="center">
-  <a href="https://cybernix.vn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%26+System+Administrator;Building+Automation+%26+AI+Driven+Systems;Exploring+Data+Science+and+Machine+Learning+⚙️" alt="Typing SVG" /></a>
+  <a href="https://cybernix.vn">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+System+Administrator;AI+%26+Automation+Engineer;Building+Scalable+Hosting+%26+VPS+Systems;Exploring+Data+Science+%26+Machine+Learning+🧠" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔧 I'm a **developer & system administrator** passionate about **backend development, automation, and data science**.  
-- 🌍 I specialize in **Node.js, PHP (Laravel), MySQL, React, and server management**.  
-- 🖥️ Currently building **a hosting & VPS automation system** similar to WHMCS.  
-- 🎮 Also working on **Minecraft server development** (custom maps, plugins, and automation).  
-- 📚 Studying **Data Science** with a focus on **machine learning, AI, and big data**.  
+> ⚙️ Developer • 🖥️ SysAdmin • 🤖 Automation Enthusiast
+
+- 🔧 Passionate about **backend systems, automation, and AI-driven optimization**  
+- 🌐 Specialized in **Node.js, PHP (Laravel), MySQL, React, and Linux server management**  
+- 🧠 Currently building **a WHMCS-like hosting & VPS automation system**  
+- 🎮 Experimenting with **Minecraft server automation, maps & plugins**  
+- 📊 Exploring **Data Science, Machine Learning, and Big Data Engineering**  
 
 ---
 
-## 💡 What I'm Working On
-- ⚙️ **Developing a custom link shortener with Laravel**.  
-- 🤖 **Building an intelligent Discord bot** with game mechanics & automation.  
-- 🔧 **Creating my own programming language** as a personal challenge.  
-- 🎲 **Developing interactive multiplayer games (turn-based, gambling, etc.)**.  
-- 📊 **Exploring AI applications in automation & system optimization**.  
+## 💡 Current Projects
+- ⚙️ **Custom link shortener** built with Laravel  
+- 🤖 **Achievement Bot** — intelligent Discord bot with badges, games & automation  
+- 🧩 **My own programming language** (syntax + interpreter from scratch)  
+- 🎲 **Multiplayer game systems** — turn-based, economy & gambling mechanics  
+- 🔍 Researching **AI in automation, DevOps, and cybersecurity**  
 
 ---
 
-## 📊 Data Science & AI
-- 🏆 **Working with Python, Pandas, NumPy, Scikit-Learn, and TensorFlow**.  
-- 📈 Interested in **predictive modeling, NLP, and AI-driven automation**.  
-- 🛠️ Applying **data-driven insights** to optimize server performance & hosting solutions.  
-- 📊 **Currently researching AI applications in cybersecurity & automation**.  
+## 🧠 Data Science & AI
+- 🐍 Using **Python, Pandas, NumPy, Scikit-Learn, and TensorFlow**  
+- 📈 Focus on **predictive modeling, NLP, and data-driven optimization**  
+- 🛠️ Applying **ML insights** to improve **server & system efficiency**  
+- 🧬 Exploring **AI-assisted automation in infrastructure & cloud orchestration**
 
 ---
 
 ## ⚙️ Tech Stack
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lephambinh05&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lephambinh05&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,mysql,python,linux,docker,bash,git,github,vscode,figma&perline=7" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-[![Auto Hosting System](https://img.shields.io/badge/Auto%20Hosting%20System-Laravel-blue?style=flat-square)](https://github.com/lephambinh05)
-> 🧰 A WHMCS-like hosting automation platform with API-based provisioning.
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lephambinh05&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lephambinh05&layout=compact&theme=react&hide_border=true" />
+</p>
 
-[![Achievement Bot](https://img.shields.io/badge/Achievement%20Bot-Discord-purple?style=flat-square)](https://github.com/lephambinh05)
-> 🤖 Multi-feature Discord bot: games, economy, badges, and AI support.
-
-[![Minecraft Automation](https://img.shields.io/badge/Minecraft%20Automation-Java-green?style=flat-square)](https://github.com/lephambinh05)
-> ⚒️ Minecraft server management & custom plugins automation.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lephambinh05&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-## 💬 Let's Connect!
-[![Email](https://img.shields.io/badge/Email-lephambinh05%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lephambinh05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Le%20Pham%20Binh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lephambinh)
-[![Website](https://img.shields.io/badge/Website-cybernix.vn-000000?style=flat-square&logo=firefox&logoColor=white)](https://cybernix.vn)
-[![Facebook](https://img.shields.io/badge/Facebook-Le%20Pham%20Binh-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/lephambinh.mmo)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:lephambinh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lephambinh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/lephambinh.mmo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://cybernix.vn"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I love optimizing systems to run **faster and more efficiently** — whether it's a **server, a database query, or a machine learning model**. 🚀  
+> I love optimizing systems to run **faster, smarter, and more efficiently** —  
+> whether it's a **server**, a **database query**, or a **machine learning model**. ⚙️💡
 
 ---
 
@@ -84,5 +79,9 @@ I love optimizing systems to run **faster and more efficiently** — whether it'
 </p>
 
 <p align="center">
-  ⭐ <i>"Automation turns creativity into scalability."</i>
+  <img src="https://img.shields.io/static/v1?label=Focus&message=Automation%20%7C%20AI%20%7C%20System%20Optimization&color=00E5FF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>“Automation turns creativity into scalability.”</i>
 </p>
